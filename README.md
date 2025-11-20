@@ -20,7 +20,7 @@ The Unified Portfolio Monitoring System (UPMS) automates workflows from both dom
     
 This showcases full-spectrum buy-side analytics capability.
 
-🧩 Key Features
+## Key Features
 
 🔵 Passive Portfolio Monitoring
 
